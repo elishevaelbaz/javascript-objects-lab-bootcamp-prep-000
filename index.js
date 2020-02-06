@@ -1,4 +1,6 @@
-function destructivelyUpdateObjectWithKeyAndValue
+function updateObjectWithKeyAndValue(object, key, value){
+  
+}
 
 describe('Objects', function() {
   describe('updateObjectWithKeyAndValue(object, key, value)', function() {
